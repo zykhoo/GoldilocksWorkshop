@@ -1,3 +1,8 @@
+# Goldilocks' Workshop 
+
+Some mini projects to support the workshop. 
+
+
 # Counting Goldilocks Papers at ICLR 2026
 
 > [!IMPORTANT]
